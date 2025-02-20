@@ -50,7 +50,7 @@ For this guide, download *crackme_1.exe* from a legal educational source.
 2. Select the appropriate architecture:
    - **x32:** For 32-bit executables.
    - **x64:** For 64-bit executables.
-3. Drag and drop *crackme_1.exe* into x64dbg to begin analysis.
+3. Drag and drop *crackme_1.exe* into x32dbg to begin analysis.
 
 ### 4.3 Exploring the Assembly Code
 - The **main window** displays disassembled code.
